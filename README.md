@@ -1,12 +1,12 @@
                               
 ![pikaso_texttoimage_RXZ_brand_logo_with_a_cyberpunk_style_emphasizing](https://github.com/user-attachments/assets/c58029a8-242b-420a-a63f-195a0df403cb)
 
-    ███████╗  ██╗░░░░██╗  █████████         GDSGRESGEGHE   YTJTYJT     TYJTYJT     YJ░░░░░░                           
-    ██║░░░██║  ██║░░██╔╝  ░░░░░░╔██         ░░░░ TYN ░░░░ YJ░░░░░░TY  TT░░░░░░TJ   JY░░░░░░           
-    ███████║    █████═╝░  ░░░╔██╝░░         ░░░░ TYN ░░░░ TY░░░░░░TJ  TJ░░░░░░YJ   JY░░░░░░
-    ██╔══██║   ██╔═░██╗░  ╔██╝░░░░░         ░░░░ TYN ░░░░ JY░░░░░░TJ  YJ░░░░░░YJ   TJ░░░░░░
-    ██║░░░██║ ██║░░░╚██╗  █████████         ░░░░░TJT ░░░░   TYJYJY      YJYYJE     TJTJTYJT
-    ╚═╝░░░╚═╝ ╚═╝░░░░╚═╝  ╚═░░░░░═╝         ╚════░░░░═══╝  ╚═░░░░░═╝  ╚═░░░░░░═╝   ╚═░░░░░═╝
+                                                     ███████╗  ██╗░░░░██╗  █████████                                 
+                                                     ██║░░░██║  ██║░░██╔╝  ░░░░░░╔██                   
+                                                     ███████║    █████═╝░  ░░░╔██╝░░         
+                                                     ██╔══██║   ██╔═░██╗░  ╔██╝░░░░░         
+                                                     ██║░░░██║ ██║░░░╚██╗  █████████         
+                                                     ╚═╝░░░╚═╝ ╚═╝░░░░╚═╝  ╚═░░░░░═╝        
 
 # DDos-Attack 
 ## The tool is still experimental, there are upcoming strong updates
