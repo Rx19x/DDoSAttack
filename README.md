@@ -21,7 +21,7 @@ from banks to news websites, and present a major challenge to making sure people
 
     $ sudo apt install python
 #
-    $ https://github.com/Rx19x/DDoSAttack.git
+    $ git clone https://github.com/Rx19x/DDoSAttack.git
 #
     $ cd DDosAttack
 #
