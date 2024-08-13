@@ -28,7 +28,6 @@ from banks to news websites, and present a major challenge to making sure people
 #
     $ python3 RxzDDoS.py
 
-### ScreenShot 
 
 ### IF YOU HAVE ANY PROBLEM CONTACT ME 
 
