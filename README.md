@@ -21,7 +21,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### cd DDosAttack
 
-### chmod +x ddos-attack.py
+### chmod +x RxzDDoS.py
 
 ### python3 RxzDDoS.py
 
