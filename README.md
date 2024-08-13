@@ -1,5 +1,6 @@
                               
-![pikaso_texttoimage_RXZ_brand_logo_with_a_cyberpunk_style_emphasizing](https://github.com/user-attachments/assets/c58029a8-242b-420a-a63f-195a0df403cb)
+
+![photo_2024-08-12_21-12-27](https://github.com/user-attachments/assets/eedc9761-e236-4c6c-806c-fac7a09a2b44)
 
                                                 ███████╗  ██╗░░░░██╗  █████████                                 
                                                 ██║░░░██║  ██║░░██╔╝  ░░░░░░╔██                   
