@@ -39,4 +39,4 @@ from banks to news websites, and present a major challenge to making sure people
 
  @Svr19x
 
-### WARNING : I disclaim this tool only for learning and experimentation and do not use it to harm any sites without security permissions
+# WARNING : I disclaim this tool only for learning and experimentation and do not use it to harm any sites without security permissions
