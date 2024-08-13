@@ -39,7 +39,7 @@ from banks to news websites, and present a major challenge to making sure people
 #
      chmod +x RxzDDoS.py
 # 
-     python -m pip3 install -r requirements.txt
+     python -m pip install -r requirements.txt
 #
      python3 RxzDDoS.py
 #      
