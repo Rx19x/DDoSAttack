@@ -5,7 +5,7 @@
     ██║░░░██║ ██║░░░╚██╗  █████████
     ╚═╝░░░╚═╝ ╚═╝░░░░╚═╝  ╚═░░░░░═╝
                               
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlmMGE1dDh4c3B6ZGRvY2U0bGdka28zbzcyODB6NXF5eW0weHowMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4VqUXUVdwWEVCHaiy/giphy.gif
+![pikaso_texttoimage_RXZ_brand_logo_with_a_cyberpunk_style_emphasizing](https://github.com/user-attachments/assets/c58029a8-242b-420a-a63f-195a0df403cb)
 
 # DDos-Attack 
 ### What Is A DDos-Attack
