@@ -12,7 +12,7 @@
 # DDos-Attack 
 ## The tool is still experimental, there are upcoming strong updates
 
-## In this tool there are four methods [ POST ,GET ,DELETE ,PUT ]
+## In this tool there are four methods [ POST ,GET ,DELETE ,PUT ] ,Also you can use proxy list file 
 
 ### What Is A DDos-Attack
 
