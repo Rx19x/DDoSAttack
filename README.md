@@ -11,7 +11,7 @@
 
 # DDos-Attack 
 
-  ![FK9k](https://github.com/user-attachments/assets/8602a818-7282-4034-85d0-7ec06667139d)
+$             ![FK9k](https://github.com/user-attachments/assets/8602a818-7282-4034-85d0-7ec06667139d)
 
 ## The tool is still experimental, there are upcoming strong updates
 
@@ -44,7 +44,7 @@ from banks to news websites, and present a major challenge to making sure people
      python3 RxzDDoS.py
 #      
      
-  ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)
+ $        ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)
 
 ### IF YOU HAVE ANY PROBLEMS CONTACT ME 
 
