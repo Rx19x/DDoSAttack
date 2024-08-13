@@ -16,17 +16,17 @@
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
-  $ Dwonload&Install
+    Dwonload&Install
 
-  $ sudo apt install python
+    sudo apt install python
 
-  $ https://github.com/Rx19x/DDoSAttack.git
+    https://github.com/Rx19x/DDoSAttack.git
 
-  $ cd DDosAttack
+    cd DDosAttack
 
-### $ chmod +x RxzDDoS.py
+    chmod +x RxzDDoS.py
 
-### $ python3 RxzDDoS.py
+    python3 RxzDDoS.py
 
 ### ScreenShot 
 
