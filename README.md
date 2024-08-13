@@ -11,9 +11,13 @@
 
 # DDos-Attack 
 ## The tool is still experimental, there are upcoming strong updates
+#
+## In this tool there are four methods [ POST ,GET ,DELETE ,PUT ]
+#
+#
 ### What Is A DDos-Attack
 
-## In this tool there are four methods [ POST ,GET ,DELETE ,PUT ] 
+ 
    
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
