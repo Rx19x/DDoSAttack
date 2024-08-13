@@ -44,9 +44,9 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### IF YOU HAVE ANY PROBLEMS CONTACT ME 
 
-### Instagram account 
+### Telegram account 
 
- @x_rx19
+ @Rx19x
 
 ### Telegram account
 
