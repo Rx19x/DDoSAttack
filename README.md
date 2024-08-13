@@ -23,7 +23,7 @@ from banks to news websites, and present a major challenge to making sure people
 #
      git clone https://github.com/Rx19x/DDoSAttack.git
 #
-     cd DDosAttack
+     cd DDoSAttack
 #
      chmod +x RxzDDoS.py
 #
