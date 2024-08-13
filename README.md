@@ -32,7 +32,7 @@ from banks to news websites, and present a major challenge to making sure people
 
  @x_rx19
 
-### Video Tutorial
+### Telegram account
 
  @Svr19x
 
