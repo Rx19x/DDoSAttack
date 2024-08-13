@@ -19,15 +19,15 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-    $ sudo apt install python
+     sudo apt install python
 #
-    $ git clone https://github.com/Rx19x/DDoSAttack.git
+     git clone https://github.com/Rx19x/DDoSAttack.git
 #
-    $ cd DDosAttack
+     cd DDosAttack
 #
-    $ chmod +x RxzDDoS.py
+     chmod +x RxzDDoS.py
 #
-    $ python3 RxzDDoS.py
+     python3 RxzDDoS.py
 
 
 ### IF YOU HAVE ANY PROBLEM CONTACT ME 
