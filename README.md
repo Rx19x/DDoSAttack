@@ -37,7 +37,7 @@ from banks to news websites, and present a major challenge to making sure people
 #      
      
 
-### IF YOU HAVE ANY PROBLEM CONTACT ME 
+### IF YOU HAVE ANY PROBLEMS CONTACT ME 
 
 ### Instagram account 
 
