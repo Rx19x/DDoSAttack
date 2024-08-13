@@ -19,16 +19,23 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-     sudo apt install python
+     sudo apt update && sudo apt upgrade -y 
+#
+     sudo apt install python -y
+#
+     sudo apt install git -y
 #
      git clone https://github.com/Rx19x/DDoSAttack.git
 #
      cd DDoSAttack
 #
      chmod +x RxzDDoS.py
+# 
+     python -m pip3 install -r requirements.txt
 #
      python3 RxzDDoS.py
-
+#      
+     
 
 ### IF YOU HAVE ANY PROBLEM CONTACT ME 
 
