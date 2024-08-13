@@ -1,4 +1,5 @@
-    https://giphy.com/gifs/V4VqUXUVdwWEVCHaiy
+![Uploading pikaso_texttoimage_RXZ_brand_logo_with_a_cyberpunk_style_emphasizing.jpg…]()
+
      
      ███████╗  ██╗░░░░██╗                                        
      ██║░░░██║  ██║░░██╔╝                                     
