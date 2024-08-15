@@ -55,7 +55,7 @@ By flooding it with traffic from multiple sources. It targets a wide range of im
     python3 RxzDDoS.py
 
 
-  ## HELLO FRIEND
+  ## ("HELLO FRIEND")
      
   ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)   
 
