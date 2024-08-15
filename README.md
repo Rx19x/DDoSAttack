@@ -53,8 +53,10 @@ By flooding it with traffic from multiple sources. It targets a wide range of im
     chmod +x RxzDDoS.py
     python -m pip install -r requirements.txt
     python3 RxzDDoS.py
+
+  ## HELLO FRIEEND
      
-  ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)   ## HI MAN 
+  ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)   
 
 ### IF YOU HAVE ANY PROBLEMS CONTACT ME 
 
