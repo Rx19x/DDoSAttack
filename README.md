@@ -69,4 +69,4 @@ By flooding it with traffic from multiple sources. It targets a wide range of im
 
  @Svr19x
 
-# WARNING : I disclaim this tool only for learning and experimentation and do not use it to harm any sites without security permissions
+# WARNING : I DISCLAIM THIS TOOL ONLY FOR LEARNING AND EXPERIMENTATION AND DO NOT USE IT TO HARM ANY SITES WITHOUT SECURITY PERMISSIONS
