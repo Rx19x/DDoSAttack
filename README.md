@@ -24,7 +24,7 @@
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
 By flooding it with traffic from multiple sources. It targets a wide range of important resources from official websites to news sites, and poses a major challenge to ensuring that people can disconnect the server and close the page temporarily or for a certain period
 
-### Download&Install
+### Download&Install In linux
 
      sudo apt update && sudo apt upgrade -y 
 #
@@ -42,6 +42,17 @@ By flooding it with traffic from multiple sources. It targets a wide range of im
 #
      python3 RxzDDoS.py
 #      
+
+### Download&Install In Termux
+
+    pkg update && pkg upgrade -y
+    pkg install python -y
+    pkg install git -y
+    git clone https://github.com/Rx19x/DDoSAttack.git
+    cd DDoSAttack
+    chmod +x RxzDDoS.py
+    python -m pip install -r requirements.txt
+    python3 RxzDDoS.py
      
   ![7jD5](https://github.com/user-attachments/assets/b0fa695c-1844-4fac-a5a9-9752597a65de)
 
