@@ -24,6 +24,8 @@
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
 By flooding it with traffic from multiple sources. It targets a wide range of important resources from official websites to news sites, and poses a major challenge to ensuring that people can disconnect the server and close the page temporarily or for a certain period
 
+### YOU MUST RUN IT IN ROOT MODE FOR IT WORK PERFECTLY
+
 ### Download&Install In Linux
 
      sudo apt update && sudo apt upgrade -y 
